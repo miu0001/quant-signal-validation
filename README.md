@@ -31,4 +31,5 @@ pip install -r requirements.txt
 
 Open the notebook in Jupyter and run all cells:
 
-notebooks/01_signal_validation_baseline.ipynb
+- [01_signal_validation_baseline.ipynb](notebooks/01_signal_validation_baseline.ipynb)
+
