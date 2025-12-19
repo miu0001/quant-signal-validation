@@ -20,3 +20,15 @@ can deteriorate out-of-sample due to noise, sampling variability, and distributi
 - In-sample performance alone is insufficient for reliable signal discovery
 - Weak signals are highly sensitive to noise and regime changes
 - Robust validation is essential for quantitative decision-making
+
+
+
+## How to Run
+
+Clone the repository and install dependencies:
+
+pip install -r requirements.txt
+
+Open the notebook in Jupyter and run all cells:
+
+notebooks/01_signal_validation_baseline.ipynb
